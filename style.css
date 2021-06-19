@@ -1,0 +1,17 @@
+.bbg {
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: #000;
+    font-size: 40px;
+}
+
+#mycanvas {
+    border-width: 5px;
+    background-color: #FFF;
+    border-style: ridge;
+}
